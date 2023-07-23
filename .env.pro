@@ -1,0 +1,3 @@
+ENV=pro
+APP_TYPE=Pro
+MAIN_COLOR=teal
